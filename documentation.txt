@@ -1,0 +1,13 @@
+First Screen has 5 Buttons 
+Frame - Home_frame
+    - Easy Mode - easy_command()
+        - Back Button 
+        Load all saved games
+    - Medium Difficulty 
+    - Hard Difficulty
+    - very Hard Difficulty
+    - Set Game 
+
+
+
+tonight the music seems so loud
